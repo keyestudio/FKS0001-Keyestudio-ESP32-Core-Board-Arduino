@@ -1,4 +1,5 @@
 # **Product Introduction**
+
 ### **About Keyestudio**
 
 Keyestudio is the best-selling brand owned by KEYES Corporation. Our product contains Arduino development boards, expansion boards, sensors and modules, Raspberry Pi, micro:bit expansion boards as well as smart cars, which can help customers at any level to learn about Arduino.
@@ -27,11 +28,11 @@ If you are interested in our products, please contact to our sales representativ
 
 
 
-## **ESP32 Inventor Learning Kit**
+### **ESP32 Inventor Learning Kit**
 
 ![FKS0001-01](./media/FKS0001-01.jpg)
 
-### **1. Description**
+#### **1. Description**
 
 This learning kit is a programmable tool specialized for kids above 6, which boasts 15 modules and sensors such as LEDs, buttons, a LCD, a photosensor, a sound sensor, an IR receiver, a temperature and humidity sensor as well as 30 interesting projects.
 
@@ -39,21 +40,21 @@ For your convenience, Arduino C language and graphical programming are provided,
 
 
 
-### **2. Features**
+#### **2. Features**
 
-**1. Easy wiring:** The wiring of VCC and GND are removed
+**2.1 Easy wiring:** The wiring of VCC and GND are removed
 
-**2. Multiple functions:** Nano or ESP32 development board are available as the control board and 15 sensors are integrated. When the external power supply is connected, the DIP switch can be used to control the VCC voltage to 3.3V or 5V.
+**2.2 Multiple functions:** Nano or ESP32 development board are available as the control board and 15 sensors are integrated. When the external power supply is connected, the DIP switch can be used to control the VCC voltage to 3.3V or 5V.
 
-**3. Simple structure:** Use 6mm dual-pass copper pillars to connect the acrylic board.
+**2.3 Simple structure:** Use 6mm dual-pass copper pillars to connect the acrylic board.
 
-**4. High expansibility:** VCC and GNG pins are provided
+**2.4 High expansibility:** VCC and GNG pins are provided
 
-**5.  Programming learning:** Arduino C language and graphical programming are available.
+**2.5  Programming learning:** Arduino C language and graphical programming are available.
 
 
 
-### **3. Parameters**
+#### **3. Parameters**
 
 - **Working voltage:** 5V or 3.3V
 - **DC power:** 7-12V
@@ -65,7 +66,7 @@ For your convenience, Arduino C language and graphical programming are provided,
 
 
 
-### **4. Kit**
+#### **4. Kit**
 
 |  #   | Picture                                              |             Components             | QTY  |
 | :--: | :--------------------------------------------------- | :--------------------------------: | :--- |

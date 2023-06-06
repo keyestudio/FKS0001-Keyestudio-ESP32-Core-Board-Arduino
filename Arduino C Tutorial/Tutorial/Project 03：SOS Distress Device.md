@@ -1,6 +1,7 @@
 # **Project 3：SOS Distress Device**
 
 ### **1. Description**
+
 Arduino SOS device is able to emit distress signals, which coincides with the principle of Morse code. It is convenient for emergencies.
 
 ### **2. Wiring Diagram**

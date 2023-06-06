@@ -52,7 +52,7 @@ Weight：9.3g
 
 ![11](./media/11.png)
 
-**● GND Pins：**The module has three grounded pins.
+**● GND Pins:**  The module has three grounded pins.
 
 **● Enable pin (EN) :** This pin is used to enable and disable modules. The pin enables module at high level and disables module at low level.  
 

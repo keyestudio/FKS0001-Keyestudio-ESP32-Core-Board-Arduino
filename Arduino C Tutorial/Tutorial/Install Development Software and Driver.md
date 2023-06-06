@@ -1,6 +1,8 @@
 # **Install Development Software and Driver**
 
-### **1.Install Arduino IDE（Windows）**
+## **1.Install Development Software**
+
+### **1.1 Install Arduino IDE（Windows）**
 
 Arduino official website：[https://www.arduino.cc/](https://www.arduino.cc/)
 
@@ -20,7 +22,7 @@ Two versions are provided for Windows: for installing and for downloading(a zipp
 
 Click **JUST DOWNLOAD** to download the software. 
 
-### **2.Install Arduino IDE（Mac）**
+### **1.2 Install Arduino IDE（Mac）**
 
 Its download method is similar to the Windows.
 
@@ -28,7 +30,7 @@ Its download method is similar to the Windows.
 
 ## **2.Install Development Board and Driver**
 
-### **1.Windows System**
+### **2.1 Windows System**
 
 Connect the control board to computer via USB. For Windows 10, the driver will be automatically installed. For Windows 7 and others, you should install it manually. 
 
@@ -37,8 +39,6 @@ USB-to-serial port chip of the board is CP2102, and we need to install it.
 Download Link of CP2102 Driver：[https://fs.keyestudio.com/CP2102-WIN](https://fs.keyestudio.com/CP2102-WIN)
 
 Then ![image-20230426100746100](./media/image-20230426100746100.png)will appear and unzip it.    ![image-20230426100852988](./media/image-20230426100852988.png)--![image-20230426101012182](./media/image-20230426101012182.png)
-
-
 
 If the control board is connected to your computer for the first time, please click Computer--Attributes--Device Manager:
 
@@ -66,7 +66,7 @@ Finally, click Computer--Attributes--Device Manager:
 
 ![](./media/image-20230426101750499.png)
 
-### **2.MAC System**
+### **2.2 MAC System**
 
 Link: [https://wiki.keyestudio.com/How_to_Install_the_Driver_of_CP2102_on_MAC_System](https://wiki.keyestudio.com/How_to_Install_the_Driver_of_CP2102_on_MAC_System)
 
@@ -74,7 +74,7 @@ Link: [https://wiki.keyestudio.com/How_to_Install_the_Driver_of_CP2102_on_MAC_Sy
 
 Link for the ESP32 Development Board：[https://docs.espressif.com/projects/arduino-esp32/en/latest/getting_started.html#about-arduino-esp32](https://docs.espressif.com/projects/arduino-esp32/en/latest/getting_started.html#about-arduino-esp32)
 
-### **1. Windows System**
+### **3.1 Windows System**
 
 Open the Arduino IDE
 
@@ -102,7 +102,7 @@ Choose the corresponding  port
 
 ![new(18)](./media/new(18)-1682391446503-41.png)
 
-### **2.MAC System**
+### **3.2 MAC System**
 
 The setting method of Arduino IDE resembles that of Windows. The only difference is COM port:
 
@@ -126,13 +126,13 @@ Click **“Arduino IDE 》Preferences 》Interface scale”** to select the appr
 
 ## **4.Install Libraries**
 
-### **1.What are Libraries?**
+### **4.1 What are Libraries?**
 
 A library is a collection of codes, and it facilitates the connection of sensors, displays and modules. 
 
 For instance, the LiquidCrystal library simplifies the communication with LCD display. Moreover, hundreds of libraries are available on Internet. In the reference, in-built and manually-added libraries are listed. 
 
-### **2.How to Install the Libraries?**
+### **4.2 How to Install the Libraries?**
 
 Tap **Sketch>Include Library>Add .Zip Library...**
 
