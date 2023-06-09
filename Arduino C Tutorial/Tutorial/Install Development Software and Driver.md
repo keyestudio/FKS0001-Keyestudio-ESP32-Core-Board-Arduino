@@ -28,7 +28,7 @@ Its download method is similar to the Windows.
 
 ![new(4)](./media/new(4)-1682391243691-8.png)
 
-## **2.Install Development Board and Driver**
+## **2.Install Driver**
 
 ### **2.1 Windows System**
 
